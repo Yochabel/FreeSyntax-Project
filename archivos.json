@@ -1,0 +1,185 @@
+{
+    "peliculas": [
+      {
+        "titulo": "Star Wars Episode IV - A New Hope",
+        "anio": 1977,
+        "genero": "Action/Adventure/Fantasy",
+        "duracion": "121 minutos",
+        "director": "George Lucas",
+        "estrellas": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
+        "calificacionIMDB": 8.6
+      },
+      {
+        "titulo": "Despicable Me",
+        "anio": 2010,
+        "genero": "Animation/Adventure/Comedy",
+        "duracion": "95 minutos",
+        "directores": ["Pierre Coffin", "Chris Renaud"],
+        "estrellas": ["Steve Carell", "Jason Segel"],
+        "calificacionIMDB": 7.6
+      },
+      {
+        "titulo": "Despicable Me 2",
+        "anio": 2013,
+        "genero": "Animación/Aventura/Comedia",
+        "duracion": "98 minutos",
+        "directores": ["Pierre Coffin", "Chris Renaud"],
+        "estrellas": ["Steve Carell", "Kristen Wiig"],
+        "calificacionIMDB": 7.3
+      },
+      {
+        "titulo": "Minions",
+        "anio": 2015,
+        "genero": "Animación/Aventura/Comedia",
+        "duracion": "91 minutos",
+        "directores": ["Kyle Balda", "Pierre Coffin"],
+        "estrellas": ["Sandra Bullock", "Jon Hamm"],
+        "calificacionIMDB": 6.4
+      },
+      {
+        "titulo": "Fight Club",
+        "anio": 1999,
+        "genero": "Drama",
+        "duracion": "139 minutos",
+        "director": "David Fincher",
+        "estrellas": ["Brad Pitt", "Edward Norton"],
+        "calificacionIMDB": 8.8
+      },
+      {
+        "titulo": "Star Wars Episode I - The Phantom Menace",
+        "anio": 1999,
+        "genero": "Acción/Aventura/Fantasía",
+        "duracion": "136 minutos",
+        "director": "George Lucas",
+        "estrellas": ["Ewan McGregor", "Liam Neeson", "Natalie Portman"],
+        "calificacionIMDB": 6.5
+      },
+      {
+        "titulo": "Whiplash",
+        "anio": 2014,
+        "genero": "Drama",
+        "duracion": "106 minutos",
+        "director": "Damien Chazelle",
+        "estrellas": ["Miles Teller", "J.K. Simmons"],
+        "calificacionIMDB": 8.5
+      },
+      {
+        "titulo": "Freaky Friday",
+        "anio": 2003,
+        "genero": "Comedia/Fantasía",
+        "duracion": "96 minutos",
+        "director": "Mark Waters",
+        "estrellas": ["Jamie Lee Curtis", "Lindsay Lohan", "Mark Harmon", "Chad Michael Murray"],
+        "calificacionIMDB": 6.3
+      },
+      {
+        "titulo": "10 Things I Hate About You",
+        "anio": 1999,
+        "genero": "Comedia/Romance",
+        "duracion": "97 minutos",
+        "director": "Gil Junger",
+        "estrellas": ["Julia Stiles", "Heath Ledger", "Joseph Gordon-Levitt", "Larisa Oleynik"],
+        "calificacionIMDB": 7.3
+      },
+      {
+        "titulo": "Lemonade Mouth",
+        "anio": 2011,
+        "genero": "Drama/Musical",
+        "duracion": "106 minutos",
+        "director": "Patricia Riggen",
+        "estrellas": ["Bridgit Mendler", "Adam Hicks", "Hayley Kiyoko", "Naomi Scott", "Blake Michael"],
+        "calificacionIMDB": 6.9
+      },
+      {
+        "titulo": "Howl's Moving Castle",
+        "anio": 2004,
+        "genero": "Animación/Fantasía/Aventura",
+        "duracion": "119 minutos",
+        "director": "Hayao Miyazaki",
+        "estrellas": ["Chieko Baisho", "Takuya Kimura", "Akihiro Miwa"],
+        "calificacionIMDB": 8
+      },
+      {
+        "titulo": "Ratatouille",
+        "anio": 2007,
+        "genero": "Comedy/Drama",
+        "duracion": "111 minutos",
+        "director": "Brad Bird",
+        "estrellas": ["Patton Oswalt", "Ian Holm", "Lou Romano", "Brad Garrett", "Peter O'Toole", "Janeane Garofalo", "Brian Dennehy", "Peter Sohn", "Will Arnett"],
+        "calificacionIMDB": 8.1
+      },
+      {
+        "titulo": "Insomnia",
+        "anio": 2002,
+        "genero": "Psychological Thriller",
+        "duracion": "118 minutos",
+        "director": "Christopher Nolan",
+        "estrellas": ["Al Pacino", "Robin Williams", "Hilary Swank", "Maura Tierney", "Martin Donovan", "Nicky Katt", "Paul Dooley"],
+        "calificacionIMDB": 8.8
+      },
+      {
+        "titulo": "Spider-Man: Into the Spider-Verse",
+        "anio": 2018,
+        "genero": "Animation/Action/Adventure",
+        "duracion": "117 minutos",
+        "directores": ["Bob Persichetti", "Peter Ramsey", "Rodney Rothman"],
+        "estrellas": ["Shameik Moore", "Jake Johnson", "Hailee Steinfeld", "Mahershala Ali", "Brian Tyree Henry", "Lily Tomlin", "Luna Lauren Vélez", "John Mulaney", "Kimiko Glenn", "Nicolas Cage", "Liev Schreiber"],
+        "calificacionIMDB": 8.7
+      },
+      {
+        "titulo": "Léon: The Professional",
+        "anio": 1994,
+        "genero": "Action/Thriller",
+        "duracion": "110 minutos",
+        "director": "Luc Besson",
+        "estrellas": ["Jean Reno", "Natalie Portman", "Gary Oldman", "Danny Aiello", "Michael Badalucco", "Ellen Greene", "Peter Appel", "Adam Busch", "Joseph Malerba", "Maïwenn", "George Martin", "Jean-Hugues Anglade", "Keith A. Glascoe", "Willi One Blood"],
+        "calificacionIMDB": 8.6
+      },
+      {
+        "titulo": "Jojo Rabbit",
+        "anio": 2019,
+        "genero": "Comedy/Drama/War",
+        "duracion": "108 minutos",
+        "director": "Taika Waititi",
+        "estrellas": ["Roman Griffin Davis", "Thomasin McKenzie", "Taika Waititi", "Rebel Wilson", "Stephen Merchant", "Alfie Allen", "Sam Rockwell", "Scarlett Johansson"],
+        "calificacionIMDB": 7.9
+      },
+      {
+        "titulo": "Spirited Away",
+        "anio": 2001,
+        "genero": "Animation/Fantasy",
+        "duracion": "125 minutos",
+        "director": "Hayao Miyazaki",
+        "estrellas": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki", "Takashi Naito", "Yasuko Sawaguchi", "Tsunehiko Kamijō", "Takehiko Ono", "Bunta Sugawara"],
+        "calificacionIMDB": 8.6
+      },
+      {
+        "titulo": "Amelie",
+        "anio": 2001,
+        "genero": "Romantic Comedy",
+        "duracion": "123 minutos",
+        "director": "Jean-Pierre Jeunet",
+        "estrellas": ["Audrey Tautou", "Mathieu Kassovitz", "Rufus", "Lorella Cravotta", "Serge Merlin", "Jamel Debbouze", "Claire Maurier", "Clotilde Mollet", "Isabelle Nanty", "Dominique Pinon", "Artus de Penguern", "Yolande Moreau", "Urbain Cancelier", "Maurice Bénichou"],
+        "calificacionIMDB": 8.6
+      },
+      {
+        "titulo": "Parasite",
+        "anio": 2019,
+        "genero": "Black Comedy/Thriller",
+        "duracion": "132 minutos",
+        "director": "Bong Joon-ho",
+        "estrellas": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong", "Choi Woo-shik", "Park So-dam", "Jang Hye-jin", "Park Myung-hoon", "Lee Jung-eun"],
+        "calificacionIMDB": 9
+      },
+      {
+        "titulo": "Kubo and the Two Strings",
+        "anio": 2016,
+        "genero": "Stop-Motion Animated/Action/Fantasy",
+        "duracion": "102 minutos",
+        "director": "Travis Knight",
+        "estrellas": ["Charlize Theron", "Art Parkinson", "Ralph Fiennes", "George Takei", "Cary-Hiroyuki Tagawa", "Brenda Vaccaro", "Rooney Mara", "Matthew McConaughey"],
+        "calificacionIMDB": 9
+      }
+    ]
+  }
+  
